@@ -1,0 +1,100 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 49,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 52,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 771
+                },
+                "from": {
+                    "file": "E:\\AndroidStudioDemo\\Demo_zhy_18_networkimageloader_03_with_diskcache\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
