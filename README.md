@@ -34,3 +34,8 @@
 		采用TaskQueue,将每一个加载图片的请求封装成Task存入TaskQueue
 		采用后台轮训线程,处理请求
 		可设置调度策略:先进先出,后进先出
+
+- **四.参考资料(感谢)**
+
+	1. [Android官方培训课程中文版(v0.9.5)第四章](http://hukai.me/android-training-course-in-chinese/)
+	2. Android开发艺术探索--任玉刚.第12章,Bitmap的加载和Cache
