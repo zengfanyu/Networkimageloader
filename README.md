@@ -18,19 +18,19 @@
 	最终实现的效果为:**不崩(OOM),不卡,不错位,不慢**.
 
 - **三.功能模块**<p>
-	3.1 **ImageSizeUtils**<p>
+	3.1 **ImageSizeUtils**
 
-	 		拿到ImageView的实际宽高<p>
-			计算出inSampleSize<p>
+	 		拿到ImageView的实际宽高
+			计算出inSampleSize
 
-	3.2 **DownLoadImgUtils**<p>
+	3.2 **DownLoadImgUtils**
 
 			开启本地缓存的情况下,从网络拉取数据,到本地<p>
 			没开启本地换地的情况下,直接从网络拉取数据,返回Bitmap<p>
 
 	3.3 **ImageLoader(核心类)**
 
-		采用单例模式,包含一个LruCache管理图片<p>
-		采用TaskQueue,将每一个加载图片的请求封装成Task存入TaskQueue<p>
-		采用后台轮训线程,处理请求<p>
-		可设置调度策略:先进先出,后进先出<p>
+		采用单例模式,包含一个LruCache管理图片
+		采用TaskQueue,将每一个加载图片的请求封装成Task存入TaskQueue
+		采用后台轮训线程,处理请求
+		可设置调度策略:先进先出,后进先出
